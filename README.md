@@ -55,6 +55,9 @@ The data contains the different attributes of leads and their interaction detail
 
 - status:Flag indicating whether the lead was converted to a paid customer or not. The class 1 represents the paid customer and class 0 represents the unpaid customer.
 
+  # Models
+  
+
 # Data Driven Insights
 
 1.Leads exhibiting elevated engagement—measured by time spent on the website (>422.5 seconds), multiple visits, and higher page views per session—demonstrate a significantly greater likelihood of conversion. These users should be prioritized in marketing and sales outreach.
