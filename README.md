@@ -10,3 +10,9 @@ A prospect browses the website or mobile app and downloads a program brochure
 An individual emails or chats to request more information
 
 From there, sales and support teams at ExtraaLearn, Coursera, and others nurture each lead—via follow‑up calls, personalized emails, and targeted content—with the goal of converting them into paying customers.
+
+**#Objectives adressed**
+
+1.Analyzing and build an ML model to help identify which leads are more likely to convert to paid customers.
+2.Finding the factors driving the lead conversion process.
+3.Creating a profile of the leads which are likely to convert.
