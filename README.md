@@ -68,3 +68,7 @@ The data contains the different attributes of leads and their interaction detail
 5.Leads with low profile completion are strongly correlated with non-conversion. Implementing personalized nudges or progressive profiling techniques may encourage users to complete their profiles and increase conversion likelihood.
 
 6. Exposure to digital and print media, when paired with subsequent website interaction, correlates positively with conversion outcomes. A multi-touchpoint marketing approach can be effective in driving intent and reinforcing brand presence.
+
+## 🤝 Contributors
+
+- **G Shanmukhi Rama**   
