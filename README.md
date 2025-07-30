@@ -71,4 +71,7 @@ The data contains the different attributes of leads and their interaction detail
 
 ## 🤝 Contributors
 
-- **G Shanmukhi Rama**   
+- **G Shanmukhi Rama**
+- **Kaushik Sai Mamidi**
+- **Kotagiriwar Sriya**
+- **Billa Vaishnavi**
